@@ -137,7 +137,7 @@ def jugador_de_padel():
         os.system('cls')
         
         # Incremento de edad
-        edad += 1
+        edad += 5
         
         # Verificar fin de la carrera
         if edad >= 35:
